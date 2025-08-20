@@ -1,6 +1,6 @@
 function QrCodeDesign() {
   return (
-    <div className="bg-white p-4 items-center justify-center w-80 max-w-xl mx-auto rounded-2xl flex flex-col mt-44">
+    <div className="bg-white p-4 items-center justify-center w-80 max-w-xl mx-auto rounded-2xl flex flex-col mt-32">
       <img
         className="w-full rounded-2xl"
         src="/image-qr-code.png"
